@@ -6,3 +6,4 @@ Extract It
 Plant It On A USB Hard Drive Or SD Card (in the Apps Folder)
 Open Homebrew Channel
 Enjoy!
+Join Our Official Discord for the early news:https://discord.com/channels/1574418283606835273/1574420921723265104
