@@ -7,3 +7,4 @@ Plant It On A USB Hard Drive Or SD Card (in the Apps Folder)
 Open Homebrew Channel
 Enjoy!
 Join Our Official Discord for the early news:https://discord.gg/mDtWbWHmY
+(WAD Forwarder With 1.0)
